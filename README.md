@@ -42,7 +42,7 @@
 
 ### 🗄️ Databases & Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
 </p>
 
 - 🟢 MongoDB (NoSQL)  
