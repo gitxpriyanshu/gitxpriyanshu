@@ -19,37 +19,71 @@
 ## ⚔️ Tech Arsenal
 
 ### 💻 Frontend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
 </p>
+
+- Axios
+- Fetch API
+
+---
 
 ### 🧠 Backend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### ⚙️ AI / ML
+- ⚡ REST API Development  
+- 🔐 JWT Authentication  
+- 🔐 OAuth (Google/GitHub Login)  
+- 🔒 Bcrypt (Password Hashing)  
+- ⚡ Prisma (ORM)
 
+---
+
+### 🗄️ Databases & Storage
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+- 🟢 MongoDB (NoSQL)  
+- 🔵 MySQL (SQL)  
+- 🟣 PostgreSQL (Advanced SQL)  
+- ⚡ Supabase (Backend as a Service)  
+- ⚡ Neon (Serverless Postgres)
+
+---
+
+### 🤖 AI / ML
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NumPy-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Scikit--Learn-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-green?style=for-the-badge" />
 </p>
 
-### ⚙️ Database
+---
 
+### ☁️ Cloud & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,aws,render" />
 </p>
 
-### ⚙️ Tools
+---
 
+### ⚙️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman" />
 </p>
+
+---
+
+### 🧠 Core Concepts
+- Data Structures & Algorithms (DSA)  
+- OOPs (Object-Oriented Programming)  
+- DBMS  
+- SQL & NoSQL Databases  
 
 ---
 
