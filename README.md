@@ -30,6 +30,21 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
+### ⚙️ AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-yellow?style=for-the-badge" />
+</p>
+
+### ⚙️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
 ### ⚙️ Tools
 
 <p>
