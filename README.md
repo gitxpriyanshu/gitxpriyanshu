@@ -14,6 +14,8 @@
 - 🚀 Building: **MindSparks – Idea Generator**  
 - 🎯 Goal: Crack Google & build scalable products  
 
+💡 Passionate about building scalable systems and real-world applications  
+
 ---
 
 ## ⚔️ Tech Arsenal
@@ -24,9 +26,6 @@
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Fetch_API-000000?style=for-the-badge" />
 </p>
-
-- Axios  
-- Fetch API  
 
 ---
 
@@ -40,11 +39,6 @@
   <img src="https://img.shields.io/badge/Bcrypt-4A90E2?style=for-the-badge" />
 </p>
 
-- ⚡ REST API Development  
-- 🔐 JWT Authentication  
-- 🔐 OAuth (Google/GitHub Login)  
-- 🔒 Bcrypt (Password Hashing)  
-
 ---
 
 ### 🗄️ Databases & Storage
@@ -53,12 +47,6 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge" />
 </p>
-
-- 🟢 MongoDB (NoSQL)  
-- 🔵 MySQL (SQL)  
-- 🟣 PostgreSQL (Advanced SQL)  
-- ⚡ Supabase (Backend as a Service)  
-- ⚡ Neon (Serverless Postgres)  
 
 ---
 
@@ -70,11 +58,6 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
 </p>
-
-- Pandas (Data Analysis)  
-- NumPy (Numerical Computing)  
-- Scikit-learn (ML Models)  
-- Matplotlib (Visualization)  
 
 ---
 
@@ -89,6 +72,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman" />
 </p>
+
 ---
 
 ### 🧠 Core Concepts
@@ -131,6 +115,7 @@
 AI-powered idea generator for creators  
 Tech: React, Node.js  
 
+<!-- Add Screenshot -->
 <!-- ![Screenshot](your-image-link) -->
 
 ---
