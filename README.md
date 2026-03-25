@@ -1,18 +1,18 @@
 <h1 align="center">🚀 Priyanshu Verma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DSA+Warrior;Future+Google+Engineer;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DSA+Focused;Future+Google+Engineer;Building+Real+World+Projects" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🎓 B.Tech CSE @ Newton School of Technology
-* ⚡ Strong in: JavaScript, React, Backend Systems
-* 🧠 Currently mastering: DSA + System Design
-* 🚀 Building: **MindSparks – Idea Generator**
-* 🎯 Mission: Crack **Google** & build powerful tech products
+- 🎓 B.Tech CSE @ Newton School of Technology  
+- ⚡ Full Stack Developer (React + Node.js)  
+- 🧠 Focus: DSA, Backend Systems & System Design  
+- 🚀 Building: **MindSparks – Idea Generator**  
+- 🎯 Goal: Crack Google & build scalable products  
 
 ---
 
@@ -20,24 +20,23 @@
 
 ### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 </p>
 
-- Axios
-- Fetch API
+- Axios  
+- Fetch API  
 
 ---
 
 ### 🧠 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
 </p>
 
 - ⚡ REST API Development  
 - 🔐 JWT Authentication  
 - 🔐 OAuth (Google/GitHub Login)  
 - 🔒 Bcrypt (Password Hashing)  
-- ⚡ Prisma (ORM)
 
 ---
 
@@ -50,7 +49,7 @@
 - 🔵 MySQL (SQL)  
 - 🟣 PostgreSQL (Advanced SQL)  
 - ⚡ Supabase (Backend as a Service)  
-- ⚡ Neon (Serverless Postgres)
+- ⚡ Neon (Serverless Postgres)  
 
 ---
 
@@ -62,6 +61,11 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Matplotlib-green?style=for-the-badge" />
 </p>
+
+- Pandas (Data Analysis)  
+- NumPy (Numerical Computing)  
+- Scikit-learn (ML Models)  
+- Matplotlib (Visualization)  
 
 ---
 
@@ -105,35 +109,44 @@
 
 ## 🧠 Currently Leveling Up
 
-* ⚡ Data Structures & Algorithms (DSA)
-* 🧠 System Design
-* 🤖 Machine Learning Basics
+- ⚡ Data Structures & Algorithms (DSA)  
+- 🧠 System Design  
+- 🤖 Machine Learning Basics  
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🚀 MindSparks
+### 🚀 MindSparks  
+[🔗 Live Demo](#) | [📂 GitHub](#)  
 
-> AI-powered idea generator for creators
-> Tech: React, Node.js
+AI-powered idea generator for creators  
+Tech: React, Node.js  
 
-### 💰 Splitwise Clone
+<!-- ![Screenshot](your-image-link) -->
 
-> Expense management system with real-time balance
-> Tech: MERN Stack + Prisma
+---
 
-### 📊 API Monitoring System
+### 💰 Splitwise Clone  
+[🔗 Live Demo](#) | [📂 GitHub](#)  
 
-> Tracks API performance and logs
-> Tech: Node.js, MongoDB
+Expense management system with real-time balance  
+Tech: MERN Stack + Prisma  
+
+---
+
+### 📊 API Monitoring System  
+[📂 GitHub](#)  
+
+Tracks API performance and logs  
+Tech: Node.js, MongoDB  
 
 ---
 
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/priyanshuverma-1310-kv/">
+  <a href="https://www.linkedin.com/in/priyanshuverma-1310-kv/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
