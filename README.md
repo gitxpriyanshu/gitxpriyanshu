@@ -21,6 +21,8 @@
 ### 💻 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fetch_API-000000?style=for-the-badge" />
 </p>
 
 - Axios  
@@ -30,7 +32,12 @@
 
 ### 🧠 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bcrypt-4A90E2?style=for-the-badge" />
 </p>
 
 - ⚡ REST API Development  
@@ -42,7 +49,9 @@
 
 ### 🗄️ Databases & Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge" />
 </p>
 
 - 🟢 MongoDB (NoSQL)  
@@ -56,10 +65,10 @@
 ### 🤖 AI / ML
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NumPy-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Matplotlib-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
 </p>
 
 - Pandas (Data Analysis)  
@@ -80,7 +89,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman" />
 </p>
-
 ---
 
 ### 🧠 Core Concepts
